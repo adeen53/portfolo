@@ -1,0 +1,23 @@
+h3{
+	border: 2px solid black;
+  	border-right: none;
+  	border-left: none;
+  	background: #AAB491;
+}
+.st{
+
+}
+
+#right{
+	width: 70%;
+	height: 100%;
+	border-width:5px;  
+    border-style:double;
+    margin-left: 200px;
+}
+body{
+	background: #D2D2D2;
+}
+h1{
+	background: #857A78;
+}
